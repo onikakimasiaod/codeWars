@@ -1,0 +1,11 @@
+:root{
+    --black: #000000;
+    --pale-green: #98fb98;
+}
+
+.container{
+    display: flex;
+    background-color: var(--black);
+    color: var(--pale-green);
+    flex-direction: column;
+}
